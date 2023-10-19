@@ -1,9 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe ParcInfo TP2
- * COURS : IFT 1176
- */
-
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
