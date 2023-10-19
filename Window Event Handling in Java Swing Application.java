@@ -1,9 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe Fenetre TP2
- * COURS : IFT 1176
- */
-
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
