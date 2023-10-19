@@ -1,4 +1,3 @@
-
 public class Manege implements Comparable<Manege> {
 	private String nom;
 	private double vitesse, hauteur;
