@@ -1,9 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe MainClass TP2
- * COURS : IFT 1176
- */
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
