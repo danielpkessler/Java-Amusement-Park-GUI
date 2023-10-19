@@ -1,9 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe ManegeInfo TP2
- * COURS : IFT 1176
- */
-
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.FlowLayout;
