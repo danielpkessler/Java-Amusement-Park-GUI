@@ -1,9 +1,3 @@
-/*
- * AUTEURS : DANIEL KESSLER & YASSINE BELADEL
- * FICHIER : Classe GUI TP2
- * COURS : IFT 1176
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
